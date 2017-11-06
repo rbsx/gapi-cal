@@ -10,7 +10,7 @@
         "semi":["error", "never"],
         "comma-dangle": ["error", "never"],
 
-        "no-unused-vars": ["error", { "varsIgnorePattern": "webpack" }],
+        "no-unused-vars": ["error", { "varsIgnorePattern": "gapi" }],
 
         "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
         "react/prop-types": [1]
